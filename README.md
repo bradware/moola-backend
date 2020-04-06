@@ -1,2 +1,2 @@
 # moola-backend
-backend api for the moola app (deprecated)
+Backend API for Moola (deprecated) using Node.js and Express
